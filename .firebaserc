@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "barbecuapp-388121",
+    "barbecuapp": "barbecuapp-388121"
+  },
+  "targets": {},
+  "etags": {}
+}

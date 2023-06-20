@@ -1,0 +1,35 @@
+{
+  "database": {
+    "rules": "./json/database-rules.json"
+  },
+  "storage": {
+    "rules": "./json/storage.rules"
+  },
+  "hosting": {
+    "public": "build",
+    "site": "barbecuapp-388121",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "*/*",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ]
+    }
+  ]
+}

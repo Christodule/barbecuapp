@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878297008643",
+    "firebase_url": "https://diaexpress-d601a-default-rtdb.firebaseio.com",
+    "project_id": "diaexpress-d601a",
+    "storage_bucket": "diaexpress-d601a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878297008643:android:714494f478e557b2b09c36",
+        "android_client_info": {
+          "package_name": "com.diaexpres.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878297008643-42jkk8ia4tbd0r6mpb8pcvl77cj19640.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI2vM78Mi-oQpfF8wFtNsXaUxlcMBA8G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104583007928482996457",
+              "client_type": 3
+            },
+            {
+              "client_id": "878297008643-5a6k1aqhgmrulukm96d567k1v24u1bls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diaexpress.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
